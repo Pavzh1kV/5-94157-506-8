@@ -15,7 +15,7 @@
 #define __TREE_DICTIONARY_H
 
 #include "blockbuffer.h"
-#include <string>
+#include <cstring>
 #include <iostream>
 
 //==============================================================

@@ -10,7 +10,7 @@
 *             выражений в виде синтаксического дерева          *
 ***************************************************************/
 
-#include <string>
+#include <cstring>
 #include <iostream>
 #include "expression.h"
 #include "dictionary.h"

@@ -13,7 +13,7 @@
 #ifndef __EXPRESSION_H
 #define __EXPRESSION_H
 
-#include <string>
+#include <cstring>
 #include <exception>
 
 class Expression;

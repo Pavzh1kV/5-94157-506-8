@@ -10,7 +10,7 @@
 ***************************************************************/
 
 #include <stdexcept>
-#include <string>
+#include <cstring>
 #include "codetable.h"
 
 using namespace std;

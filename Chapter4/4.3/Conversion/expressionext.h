@@ -13,7 +13,7 @@
 #ifndef __EXPRESSION_EXT_H
 #define __EXPRESSION_EXT_H
 
-#include <string>
+#include <cstring>
 #include <exception>
 #include <stdio.h>
 

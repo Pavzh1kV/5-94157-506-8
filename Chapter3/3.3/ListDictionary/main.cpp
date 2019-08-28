@@ -9,7 +9,7 @@
 *  Описание : Проверка работы словаря, представленного списком *
 ***************************************************************/
 
-#include <string>
+#include <cstring>
 #include <iostream>
 #include "listdictionary.h"
 #include "wordsiterator.h"

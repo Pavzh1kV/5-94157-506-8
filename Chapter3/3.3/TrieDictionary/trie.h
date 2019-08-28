@@ -12,7 +12,7 @@
 #ifndef __TRIE_H
 #define __TRIE_H
 
-#include <string>
+#include <cstring>
 #include "iterator.h"
 #include "pair.h"
 

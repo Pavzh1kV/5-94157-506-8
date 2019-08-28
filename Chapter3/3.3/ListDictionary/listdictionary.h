@@ -13,7 +13,7 @@
 #ifndef __LIST_DICTIONARY_H
 #define __LIST_DICTIONARY_H
 
-#include <string>
+#include <cstring>
 #include "pair.h"
 #include "sortedlist.h"
 #include "iterator.h"

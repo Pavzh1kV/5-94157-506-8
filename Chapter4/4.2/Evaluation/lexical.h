@@ -13,7 +13,7 @@
 #ifndef __LEXICAL_H
 #define __LEXICAL_H
 
-#include <string>
+#include <cstring>
 
 using namespace std;
 

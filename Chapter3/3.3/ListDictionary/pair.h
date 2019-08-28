@@ -13,7 +13,7 @@
 #ifndef __PAIR_H
 #define __PAIR_H
 
-#include <string>
+#include <cstring>
 
 using namespace std;
 

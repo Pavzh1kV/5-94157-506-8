@@ -10,7 +10,7 @@
 *             двоичным деревом поиска                          *
 ***************************************************************/
 
-#include <string>
+#include <cstring>
 #include <iostream>
 #include "treedictionary.h"
 #include "wordsiterator.h"

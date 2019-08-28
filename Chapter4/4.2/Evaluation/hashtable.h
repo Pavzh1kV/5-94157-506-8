@@ -14,7 +14,7 @@
 #ifndef __HASH_TABLE_H
 #define __HASH_TABLE_H
 
-#include <string>
+#include <cstring>
 #include <exception>
 
 using namespace std;

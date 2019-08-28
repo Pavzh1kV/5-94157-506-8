@@ -11,7 +11,7 @@
 ***************************************************************/
 
 #include <iostream>
-#include <string>
+#include <cstring>
 #include "binsearch.h"
 #include "insertsort.h"
 #include "mergesort.h"

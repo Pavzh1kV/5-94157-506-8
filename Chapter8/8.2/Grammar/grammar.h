@@ -14,7 +14,7 @@
 #ifndef __GRAMMAR_H
 #define __GRAMMAR_H
 
-#include <string>
+#include <cstring>
 #include "smartptr.h"
 
 using namespace std;

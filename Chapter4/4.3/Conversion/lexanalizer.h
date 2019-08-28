@@ -12,7 +12,7 @@
 #ifndef __LEX_ANALIZER_H
 #define __LEX_ANALIZER_H
 
-#include <string>
+#include <cstring>
 #include "lexical.h"
 #include "iterator.h"
 

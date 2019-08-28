@@ -15,7 +15,7 @@
 #include "stack.h"
 #include "liststack.h"
 #include "stackfactory.h"
-#include <string>
+#include <cstring>
 
 using namespace std;
 

@@ -13,7 +13,7 @@
 #ifndef __TREE_DICTIONARY_H
 #define __TREE_DICTIONARY_H
 
-#include <string>
+#include <cstring>
 #include "tree.h"
 #include "pair.h"
 

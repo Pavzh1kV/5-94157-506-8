@@ -10,7 +10,7 @@
 *             хеш-таблицы                                      *
 ***************************************************************/
 
-#include <string>
+#include <cstring>
 #include "dictionary.h"
 
 int HashDictionary::code(char c)

@@ -10,7 +10,7 @@
 *             синтаксическое дерево выражения                  *
 ***************************************************************/
 
-#include <string>
+#include <cstring>
 #include <exception>
 
 using namespace std;

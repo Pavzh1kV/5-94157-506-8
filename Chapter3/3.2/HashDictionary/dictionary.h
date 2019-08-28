@@ -12,7 +12,7 @@
 #ifndef __DICTIONARY_H
 #define __DICTIONARY_H
 
-#include <string>
+#include <cstring>
 
 using namespace std;
 

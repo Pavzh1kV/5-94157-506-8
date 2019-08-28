@@ -10,7 +10,7 @@
 *             хеш-таблицы                                      *
 ***************************************************************/
 
-#include <string>
+#include <cstring>
 #include <iostream>
 #include "dictionary.h"
 

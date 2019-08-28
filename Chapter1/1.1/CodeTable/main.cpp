@@ -10,7 +10,7 @@
 ***************************************************************/
 
 #include <iostream>
-#include <string>
+#include <cstring>
 #include "codetable.h"
 
 using namespace std;
